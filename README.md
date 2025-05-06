@@ -57,7 +57,7 @@ O código foi ajustado para que o modo debug seja controlado por uma variável d
 
 #### 📸 *Print 2 – Código corrigido:*
 
-![codigo-corrigido](Screenshot_3.png)
+![codigo-corrigido](screenshot_03.png)
 
 ```py
 if __name__ == '__main__':
