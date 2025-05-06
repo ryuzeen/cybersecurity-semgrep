@@ -41,7 +41,7 @@ Esse comando verifica o projeto com um conjunto de regras básicas de segurança
 
 #### 📸 *Print 1 – Alerta detectado pela ferramenta Semgrep:*
 
-![imagem1-alerta](https://prnt.sc/WSp5k64jsSv0)
+![imagem1-alerta](Screenshot_2.jpg)
 
 #### ⚠️ **Alerta identificado**:
 
@@ -57,7 +57,7 @@ O código foi ajustado para que o modo debug seja controlado por uma variável d
 
 #### 📸 *Print 2 – Código corrigido:*
 
-![codigo-corrigido](https://prnt.sc/3oU_ldozoRH5)
+![codigo-corrigido](Screenshot_3.jpg)
 
 ```py
 if __name__ == '__main__':
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 #### 📸 *Print 3 – Nova análise Semgrep (sem alertas):*
 
-![analise-sem-alerta](https://prnt.sc/nZ9YlzMvIuCh)
+![analise-sem-alerta](Screenshot_4.jpg)
 
 Após a correção, a ferramenta Semgrep foi executada novamente e **nenhum alerta adicional foi identificado**.
 
