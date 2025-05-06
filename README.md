@@ -88,6 +88,6 @@ A análise de segurança estática com Semgrep mostrou-se eficaz na identificaç
 O grupo conclui que a análise estática é uma etapa fundamental no ciclo de desenvolvimento seguro, e que pequenas alterações podem prevenir vulnerabilidades críticas.
 
 
-Rafael - RM93092
-Octávio - RM97894
-Sabrina - RM550781
+- Rafael - RM93092
+- Octávio - RM97894
+- Sabrina - RM550781
