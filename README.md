@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 #### 📸 *Print 3 – Nova análise Semgrep (sem alertas):*
 
-![analise-sem-alerta](Screenshot_4.png)
+![analise-sem-alerta](Screenshot_4.png) 
 
 Após a correção, a ferramenta Semgrep foi executada novamente e **nenhum alerta adicional foi identificado**.
 
